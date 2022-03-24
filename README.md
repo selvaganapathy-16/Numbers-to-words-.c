@@ -1,3 +1,3 @@
 # Numbers-to-words-.c
 
-This program converts numbers to words from (1-9999) 
+This program converts numbers to words from (0-9999) 
